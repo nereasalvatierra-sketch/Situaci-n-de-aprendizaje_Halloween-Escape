@@ -1,0 +1,2263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260508185031SX7059</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260508185031TFZOYU</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Halloween Escape</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Discover, Learn and Scare</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Nerea Salvatierra Gómez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Los alumnos tendrán como objetivo la organización de un pasaje del terror para los alumnos de 1º ESO como celebración de Halloween.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778258611586</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mowuxhr5-oc2zd9xsn</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Halloween Escape: Discover, Learn and Scare</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Halloween Escape: Discover, Learn and Scare</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Halloween Escape:</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Halloween Escape: Discover, Learn and Scare</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mowuxhr5-oc2zd9xsn</odePageId>
+      <odeBlockId>block-1778257749484-u4d4y7fcb</odeBlockId>
+      <blockName>Learning Situation Final Product</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowuxhr5-oc2zd9xsn</odePageId>
+          <odeBlockId>block-1778257749484-u4d4y7fcb</odeBlockId>
+          <odeIdeviceId>idevice-1778257749484-dwku6k68t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/razelion-cat-10245132_1920.png" width="2000" height="3000" alt="Imagen de gusba razelion en Pixabay" /></p>
+<p><span style="font-size: 8pt;">Picture by Gusba Razelion on Pixabay</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778257749484-dwku6k68t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/razelion-cat-10245132_1920.png\" width=\"2000\" height=\"3000\" alt=\"Imagen de gusba razelion en Pixabay\" /></p>\n<p><span style=\"font-size: 8pt;\">Picture by Gusba Razelion on Pixabay</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mowuxhr7-u6hz5fvy4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Digital Safety</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Digital Safety</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Digital Safety</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mowuxhr7-u6hz5fvy4</odePageId>
+      <odeBlockId>block-1778235203896-5iythnagw</odeBlockId>
+      <blockName>Protect your data</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowuxhr7-u6hz5fvy4</odePageId>
+          <odeBlockId>block-1778235203896-5iythnagw</odeBlockId>
+          <odeIdeviceId>idevice-1778235203893-z1cut754t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">The following image includes some essential digital safety rules and recommendations to help you use online tools responsibly and safely throughout this project.<br />Please read it carefully and use it as a reminder during all the activities.</p>
+<p><embed width="600" height="300" style="display: block; margin-left: auto; margin-right: auto;" src="{{context_path}}/content/resources/¡Protege tus datos!.pdf" type="application/pdf"></embed></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778235203893-z1cut754t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">The following image includes some essential digital safety rules and recommendations to help you use online tools responsibly and safely throughout this project.<br />Please read it carefully and use it as a reminder during all the activities.</p>\n<p><embed width=\"600\" height=\"300\" style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"{{context_path}}/content/resources/¡Protege tus datos!.pdf\" type=\"application/pdf\"></embed></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mowuxhr8-qopacvw3m</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Introduction: Presentation and description of the Learning Situation</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introduction: Presentation and description of the Learning Situation</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introduction: Presentation and description of the Learning Situation</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mowuxhr8-qopacvw3m</odePageId>
+      <odeBlockId>block-1778235745476-gkhv0d8t5</odeBlockId>
+      <blockName>What can you expect?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowuxhr8-qopacvw3m</odePageId>
+          <odeBlockId>block-1778235745476-gkhv0d8t5</odeBlockId>
+          <odeIdeviceId>idevice-1778235745470-23yzloixj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Welcome to our Halloween project, where students will become creators, problem-solvers, and performers in English!</p>
+<p>In this learning situation, 2nd ESO students will explore the origins and traditions of Halloween while developing their English language skills through interactive and collaborative activities. Throughout the project, they will learn key vocabulary, practise useful grammar structures, and take part in challenges such as quizzes and breakout games.</p>
+<p>The final goal of the project is to design and carry out a haunted house experience for 1st ESO students. Working in teams, students will create scenes, characters, and interactive moments using both digital tools and their creativity, turning the classroom into a spooky but educational experience.</p>
+<p>This project aims to make learning meaningful, motivating, and fun, while encouraging cooperation, communication in English, and the use of digital tools in a safe and responsible way.</p>
+<p>Get ready… if you dare! 👻</p>
+<p download="exe-package:elp-name"><br /></p>
+<p download="exe-package:elp-name"><a href="https://docs.google.com/document/d/1C3zeTU0TjJ65x5_ypePlULWU-dB_snagtRuuUN8Vh_M/edit?usp=sharing" title="Presentation">Click here to know more about the project info</a></p>
+<p download="exe-package:elp-name"><img src="{{context_path}}/content/resources/5886065.jpg" title="Freepik" width="1366" height="1366" alt="" /></p>
+<p download="exe-package:elp-name">Picture from Magnific.com on Freepik</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778235745470-23yzloixj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Welcome to our Halloween project, where students will become creators, problem-solvers, and performers in English!</p>\n<p>In this learning situation, 2nd ESO students will explore the origins and traditions of Halloween while developing their English language skills through interactive and collaborative activities. Throughout the project, they will learn key vocabulary, practise useful grammar structures, and take part in challenges such as quizzes and breakout games.</p>\n<p>The final goal of the project is to design and carry out a haunted house experience for 1st ESO students. Working in teams, students will create scenes, characters, and interactive moments using both digital tools and their creativity, turning the classroom into a spooky but educational experience.</p>\n<p>This project aims to make learning meaningful, motivating, and fun, while encouraging cooperation, communication in English, and the use of digital tools in a safe and responsible way.</p>\n<p>Get ready… if you dare! 👻</p>\n<p download=\"exe-package:elp-name\"><br /></p>\n<p download=\"exe-package:elp-name\"><a href=\"https://docs.google.com/document/d/1C3zeTU0TjJ65x5_ypePlULWU-dB_snagtRuuUN8Vh_M/edit?usp=sharing\" title=\"Presentation\">Click here to know more about the project info</a></p>\n<p download=\"exe-package:elp-name\"><img src=\"{{context_path}}/content/resources/5886065.jpg\" title=\"Freepik\" width=\"1366\" height=\"1366\" alt=\"\" /></p>\n<p download=\"exe-package:elp-name\">Picture from Magnific.com on Freepik</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mowuxhr9-3n31kstdh</odePageId>
+  <odeParentPageId>page-mowuxhr8-qopacvw3m</odeParentPageId>
+  <pageName>Description of the final product</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Description of the final product</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Description of the final product</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mowuxhr9-3n31kstdh</odePageId>
+      <odeBlockId>block-1778236855802-09e3kyp9v</odeBlockId>
+      <blockName>Main objectives</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowuxhr9-3n31kstdh</odePageId>
+          <odeBlockId>block-1778236855802-09e3kyp9v</odeBlockId>
+          <odeIdeviceId>idevice-1778236855799-ekgs6nrym</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">For the development of the final product of this learning situation, in which 2nd ESO students will design a haunted house experience in English for 1st ESO students during Halloween, digital tools such as Canva and Genially will be used.</p>
+<p style="text-align: justify;">Through these tools, students will be able to create visual and interactive materials related to the project, such as posters, presentations, breakout-style challenges or digital elements to decorate and organise the different scenes of the haunted house experience.</p>
+<p style="text-align: justify;">On the one hand, Canva stands out for being an intuitive and user-friendly tool, suitable for 2nd ESO students with an intermediate level of digital competence. In addition, it allows students to design attractive visual resources that encourage creativity, motivation and active participation.</p>
+<p style="text-align: justify;">On the other hand, Genially enables the creation of interactive content and gamified activities, such as games, challenges and quizzes, which perfectly fit the theme of the project and promote active and cooperative learning.</p>
+<p style="text-align: justify;">Both tools are accessible within the educational environment and encourage collaborative work, helping students develop not only their digital competence, but also their autonomy and creativity.</p>
+<p style="text-align: justify;"><a href="https://docs.google.com/document/d/1C3zeTU0TjJ65x5_ypePlULWU-dB_snagtRuuUN8Vh_M/edit?usp=sharing" title="">Enlace 2.1</a></p>
+<p style="text-align: justify;"><img src="{{context_path}}/content/resources/dreamdigitalartist-happy-halloween-7234830_1280.png" width="969" height="1280" alt="Imagen de DreamDigitalArtist en Pixabay" /></p>
+<p style="text-align: justify;"><span style="font-size: 8pt;">Picture by DreamDigitalArtist on Pixabay</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778236855799-ekgs6nrym","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">For the development of the final product of this learning situation, in which 2nd ESO students will design a haunted house experience in English for 1st ESO students during Halloween, digital tools such as Canva and Genially will be used.</p>\n<p style=\"text-align: justify;\">Through these tools, students will be able to create visual and interactive materials related to the project, such as posters, presentations, breakout-style challenges or digital elements to decorate and organise the different scenes of the haunted house experience.</p>\n<p style=\"text-align: justify;\">On the one hand, Canva stands out for being an intuitive and user-friendly tool, suitable for 2nd ESO students with an intermediate level of digital competence. In addition, it allows students to design attractive visual resources that encourage creativity, motivation and active participation.</p>\n<p style=\"text-align: justify;\">On the other hand, Genially enables the creation of interactive content and gamified activities, such as games, challenges and quizzes, which perfectly fit the theme of the project and promote active and cooperative learning.</p>\n<p style=\"text-align: justify;\">Both tools are accessible within the educational environment and encourage collaborative work, helping students develop not only their digital competence, but also their autonomy and creativity.</p>\n<p style=\"text-align: justify;\"><a href=\"https://docs.google.com/document/d/1C3zeTU0TjJ65x5_ypePlULWU-dB_snagtRuuUN8Vh_M/edit?usp=sharing\" title=\"\">Enlace 2.1</a></p>\n<p style=\"text-align: justify;\"><img src=\"{{context_path}}/content/resources/dreamdigitalartist-happy-halloween-7234830_1280.png\" width=\"969\" height=\"1280\" alt=\"Imagen de DreamDigitalArtist en Pixabay\" /></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 8pt;\">Picture by DreamDigitalArtist on Pixabay</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mowuxhra-xvkcriuf3</odePageId>
+  <odeParentPageId>page-mowuxhr8-qopacvw3m</odeParentPageId>
+  <pageName>Timeline</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Timeline</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Timeline</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mowuxhra-xvkcriuf3</odePageId>
+      <odeBlockId>block-1778237278183-tiwn3xbix</odeBlockId>
+      <blockName>Organization of the sessions</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowuxhra-xvkcriuf3</odePageId>
+          <odeBlockId>block-1778237278183-tiwn3xbix</odeBlockId>
+          <odeIdeviceId>idevice-1778237278179-rt2gylyuc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://canva.link/hn2f8vsgkhiutqm" title="" onclick="window.open(this.href,'eXeLearningPopup','width=600,height=400,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-200)+'');return false;">Click here to access the timeline of the learning situation<img src="{{context_path}}/content/resources/03ed9126-2e85-4ea6-ade6-c991952f92bc.jpg" width="1366" height="911" alt="" /></a></p>
+<p><span style="font-size: 8pt;">Freepik License</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778237278179-rt2gylyuc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://canva.link/hn2f8vsgkhiutqm\" title=\"\" onclick=\"window.open(this.href,'eXeLearningPopup','width=600,height=400,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-200)+'');return false;\">Click here to access the timeline of the learning situation<img src=\"{{context_path}}/content/resources/03ed9126-2e85-4ea6-ade6-c991952f92bc.jpg\" width=\"1366\" height=\"911\" alt=\"\" /></a></p>\n<p><span style=\"font-size: 8pt;\">Freepik License</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mowuxhr9-ipty3a8ss</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Resources (curación de contenido)</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Resources (curación de contenido)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas de curación de contenido</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Resources (curación de contenido)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mowuxhr9-ipty3a8ss</odePageId>
+      <odeBlockId>block-1778242746628-uyq6mfjse</odeBlockId>
+      <blockName>Organized resources</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowuxhr9-ipty3a8ss</odePageId>
+          <odeBlockId>block-1778242746628-uyq6mfjse</odeBlockId>
+          <odeIdeviceId>idevice-1778242746626-skc2igu6a</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>In this section, you will find a selection of carefully chosen digital resources that will help you complete the different tasks of this project successfully.</p>
+<p>We have used two main tools to organise and share these materials. On the one hand, the teacher’s board in Symbaloo includes useful websites, videos, and teaching resources to guide the learning process. On the other hand, the student board in Padlet brings together all the key materials you will need, such as vocabulary tools, tutorials, and interactive activities.</p>
+<p>These platforms will help you access information in an organised and visual way, making it easier to find what you need at each stage of the project and supporting your learning in a more autonomous way.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778242746626-skc2igu6a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>In this section, you will find a selection of carefully chosen digital resources that will help you complete the different tasks of this project successfully.</p>\n<p>We have used two main tools to organise and share these materials. On the one hand, the teacher’s board in Symbaloo includes useful websites, videos, and teaching resources to guide the learning process. On the other hand, the student board in Padlet brings together all the key materials you will need, such as vocabulary tools, tutorials, and interactive activities.</p>\n<p>These platforms will help you access information in an organised and visual way, making it easier to find what you need at each stage of the project and supporting your learning in a more autonomous way.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778242623518-ccrrglq4x</odePageId>
+  <odeParentPageId>page-mowuxhr9-ipty3a8ss</odeParentPageId>
+  <pageName>For students</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>For students</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>For students</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778242623518-ccrrglq4x</odePageId>
+      <odeBlockId>block-1778242231607-okb0ejvfu</odeBlockId>
+      <blockName>Padlet resources for students</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778242623518-ccrrglq4x</odePageId>
+          <odeBlockId>block-1778242231607-okb0ejvfu</odeBlockId>
+          <odeIdeviceId>idevice-1778242231606-7zxlglv5j</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="padlet-embed" style="border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;">
+<p style="padding: 0; margin: 0;"><iframe width="100" height="608" style="width: 100%; height: 608px; display: block; padding: 0; margin: 0;" src="https://padlet.com/embed/uxkngicx7thjyyb6" frameborder="0" allow="camera;microphone;geolocation;display-capture;clipboard-write" data-mce-fragment="1"></iframe></p>
+<div style="display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;"><a href="https://padlet.com?ref=embed" style="display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;" target="_blank" rel="noopener"><span aria-hidden="" style="color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;">Made with</span><img src="https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png" height="12" style="padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;" alt="Hecho con Padlet" /></a></div>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778242231606-7zxlglv5j","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"padlet-embed\" style=\"border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;\">\n<p style=\"padding: 0; margin: 0;\"><iframe width=\"100\" height=\"608\" style=\"width: 100%; height: 608px; display: block; padding: 0; margin: 0;\" src=\"https://padlet.com/embed/uxkngicx7thjyyb6\" frameborder=\"0\" allow=\"camera;microphone;geolocation;display-capture;clipboard-write\" data-mce-fragment=\"1\"></iframe></p>\n<div style=\"display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;\"><a href=\"https://padlet.com?ref=embed\" style=\"display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;\" target=\"_blank\" rel=\"noopener\"><span aria-hidden=\"\" style=\"color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;\">Made with</span><img src=\"https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png\" height=\"12\" style=\"padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;\" alt=\"Hecho con Padlet\" /></a></div>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778242740196-gvnvwilzg</odePageId>
+  <odeParentPageId>page-mowuxhr9-ipty3a8ss</odeParentPageId>
+  <pageName>For teachers</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>For teachers</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778242740196-gvnvwilzg</odePageId>
+      <odeBlockId>block-1778242811595-z2zrgy2to</odeBlockId>
+      <blockName>Symbaloo resources for teachers</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778242740196-gvnvwilzg</odePageId>
+          <odeBlockId>block-1778242811595-z2zrgy2to</odeBlockId>
+          <odeIdeviceId>idevice-1778242811594-i0uefvk42</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <pre><iframe width="930px" height="620px" frameborder="0" noresize="noresize" src="https://www.symbaloo.com/embed/shared/AAAAAf5g4I8AA41-5EY4Gg=="></iframe></pre>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778242811594-i0uefvk42","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<pre><iframe width=\"930px\" height=\"620px\" frameborder=\"0\" noresize=\"noresize\" src=\"https://www.symbaloo.com/embed/shared/AAAAAf5g4I8AA41-5EY4Gg==\"></iframe></pre>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mowuxhra-x7ep28yu4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluation criteria</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluation criteria</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluation criteria</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mowuxhra-x7ep28yu4</odePageId>
+      <odeBlockId>block-1778241975616-kxzeg37bs</odeBlockId>
+      <blockName>Assessment</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowuxhra-x7ep28yu4</odePageId>
+          <odeBlockId>block-1778241975616-kxzeg37bs</odeBlockId>
+          <odeIdeviceId>idevice-1778241975614-aor2al8fc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>To help you understand how you are doing, you will use a checklist and a rubric that will show what is expected in each part of the project. You will also reflect on your own learning and evaluate your teamwork.</p>
+<p>Remember: making mistakes is part of learning. What matters most is your effort, your participation, and your willingness to communicate in English.</p>
+<p><a href="https://docs.google.com/document/d/14Z1NP73hSToJgSIDp7PgrAgVpnws1mIbUS7ZAMtxCEk/edit?usp=sharing" title="">Enlace 8.1</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778241975614-aor2al8fc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>To help you understand how you are doing, you will use a checklist and a rubric that will show what is expected in each part of the project. You will also reflect on your own learning and evaluate your teamwork.</p>\n<p>Remember: making mistakes is part of learning. What matters most is your effort, your participation, and your willingness to communicate in English.</p>\n<p><a href=\"https://docs.google.com/document/d/14Z1NP73hSToJgSIDp7PgrAgVpnws1mIbUS7ZAMtxCEk/edit?usp=sharing\" title=\"\">Enlace 8.1</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mowuxhra-x7ep28yu4</odePageId>
+      <odeBlockId>block-1778238834695-9vhjpmx6v</odeBlockId>
+      <blockName>Final Product Rubric</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowuxhra-x7ep28yu4</odePageId>
+          <odeBlockId>block-1778238834695-9vhjpmx6v</odeBlockId>
+          <odeIdeviceId>idevice-1778238834691-0queu30zc</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778238834691-0queu30zc" title="" href="{{context_path}}/content/resources/Rúbric.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Rúbric.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778238834691-0queu30zc","img_0":{"img":"{{context_path}}/content/resources/Rúbric.png","thumbnail":"{{context_path}}/content/resources/Rúbric.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mowuxhra-x7ep28yu4</odePageId>
+      <odeBlockId>block-1778239308579-w1xqlrch2</odeBlockId>
+      <blockName>Check List Coevaluation</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowuxhra-x7ep28yu4</odePageId>
+          <odeBlockId>block-1778239308579-w1xqlrch2</odeBlockId>
+          <odeIdeviceId>idevice-1778239308577-v8qfapgvr</odeIdeviceId>
+          <odeIdeviceTypeName>checklist</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="listacotejo-IDevice"><div class="listacotejo-instructions CTJ-instructions"><p>Complete the checklist by ticking the boxes while completing the corresponding activities.</p></div><div class="listacotejo-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FD%E6%F7%F8%FD%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%A5%AA%A0%A1%AB%A1%A2%AA%A7%A5%A5%BF%E4%AA%E3%F4%F3%E2%F5%E4%E0%B0%BE%B0%E6%FB%E6%FE%F7%B0%A8%B0%DA%F3%FE%FE%FD%E5%F7%F7%FC%B2%D0%E0%F7%F3%F9%FD%E7%E6%B0%BE%B0%E1%E7%F0%E6%FB%E6%FE%F7%B0%A8%B0%C6%FA%F7%B2%DA%F3%FE%FE%FD%E5%F7%F7%FC%B2%D1%E7%E0%E1%F7%B2%D5%F7%FC%FB%F3%FE%FE%EB%B0%BE%B0%FE%F7%E4%F7%FE%E1%B0%A8%C9%E9%B0%E6%EB%E2%F7%B0%A8%B0%A0%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A0%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%E1%E2%F3%FC%B2%FB%F6%AF%CE%B0%F6%FD%F1%E1%BF%FB%FC%E6%F7%E0%FC%F3%FE%BF%F5%E7%FB%F6%BF%A3%A1%F1%F1%F4%F0%AB%AA%BF%A5%F4%F4%F4%BF%A7%AA%A5%AA%BF%F0%F3%A1%F4%BF%F0%A2%F0%A0%F4%AA%F1%A3%A2%F7%A3%A6%CE%B0%AC%D3%F1%E6%FB%E4%F7%FE%EB%B2%E2%F3%E0%E6%FB%F1%FB%E2%F3%E6%F7%E1%B2%F0%EB%B2%E2%E0%FD%E2%FD%E1%FB%FC%F5%B2%E1%FD%FE%E7%E6%FB%FD%FC%E1%B2%F6%E7%E0%FB%FC%F5%B2%E6%FA%F7%B2%F1%FA%F3%FE%FE%F7%FC%F5%F7%E1%AE%BD%E1%E2%F3%FC%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A0%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A0%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%D1%FD%FF%FF%E7%FC%FB%F1%F3%E6%F7%E1%B2%FB%FC%B2%D7%FC%F5%FE%FB%E1%FA%B2%E6%FD%B2%F7%EA%F1%FA%F3%FC%F5%F7%B2%FB%F6%F7%F3%E1%B2%FD%E0%B2%E1%FD%FE%E4%F7%B2%E6%F3%E1%F9%E1%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A0%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A0%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%C7%FC%F6%F7%E0%E1%E6%F3%FC%F6%E1%B2%F3%FC%F6%B2%F4%FD%FE%FE%FD%E5%E1%B2%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B2%FB%FC%F6%F7%E2%F7%FC%F6%F7%FC%E6%FE%EB%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A0%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A0%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%D1%FD%FD%E2%F7%E0%F3%E6%F7%E1%B2%E5%FB%E6%FA%B2%E6%FA%F7%FB%E0%B2%E2%F3%E0%E6%FC%F7%E0%BE%B2%E0%F7%E1%E2%F7%F1%E6%FB%FC%F5%B2%E0%FD%FE%F7%E1%B2%F3%FC%F6%B2%E0%F7%E1%E2%FD%FC%E1%FB%F0%FB%FE%FB%E6%FB%F7%E1%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A0%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A0%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%DF%F3%FC%F3%F5%F7%E1%B2%E6%FB%FF%F7%B2%F3%E2%E2%E0%FD%E2%E0%FB%F3%E6%F7%FE%EB%B2%F6%E7%E0%FB%FC%F5%B2%E6%FA%F7%B2%F1%FA%F3%FE%FE%F7%FC%F5%F7%E1%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A0%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A0%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%D1%FD%FF%E2%FE%F7%E6%F7%E1%B2%F3%FC%F6%B2%E1%E7%F0%FF%FB%E6%E1%B2%E6%F3%E1%F9%E1%B2%F3%FC%F6%B2%F1%FA%F3%FE%FE%F7%FC%F5%F7%E1%B2%FD%FC%B2%E6%FB%FF%F7%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%CF%BE%B0%FA%F3%E1%DE%FD%F5%FD%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E0%FE%DE%FD%F5%FD%B0%A8%B0%B0%BE%B0%FA%F3%E1%D1%FD%FF%FF%E7%FC%FB%E6%EB%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E0%FE%D1%FD%FF%FF%E7%FC%FB%E6%EB%B0%A8%B0%B0%BE%B0%FA%F3%E1%D6%F7%F1%FD%E0%F3%E6%FB%E4%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E0%FE%D6%F7%F1%FD%E0%F3%E6%FB%E4%F7%B0%A8%B0%F3%E1%E1%F7%E6%A8%BD%BD%A7%F7%A6%A0%AA%A1%AA%F7%BF%AA%F4%AA%A5%BF%F6%A0%A3%A1%BF%AB%A2%A4%A4%BF%AA%F6%F0%F0%F4%F0%A7%A3%A3%A1%AA%A2%BC%F8%E2%F5%B0%BE%B0%E1%F3%E4%F7%D6%F3%E6%F3%B0%A8%E6%E0%E7%F7%BE%B0%E7%E1%F7%E0%D6%F3%E6%F3%B0%A8%E6%E0%E7%F7%BE%B0%F4%FD%FD%E6%F7%E0%B0%A8%B0%D7%E1%E6%F3%B2%AE%F3%B2%FA%E0%F7%F4%AF%FA%E6%E6%E2%E1%A8%BD%BD%F7%E1%BC%E5%FB%F9%FB%E2%F7%F6%FB%F3%BC%FD%E0%F5%BD%E5%FB%F9%FB%BD%DE%FB%E1%E6%F3%CD%F6%F7%CD%F1%FD%FF%E2%E0%FD%F0%F3%F1%FB%B7%D1%A1%B7%D0%A1%FC%AC%FE%FB%E1%E6%F3%B2%F6%F7%B2%F1%FD%E6%F7%F8%FD%AE%BD%F3%AC%B2%E1%F7%B2%F7%FC%F1%E7%F7%FC%E6%E0%F3%B2%F0%F3%F8%FD%B2%E7%FC%F3%B2%FE%FB%F1%F7%FC%F1%FB%F3%AE%BD%F0%E0%AC%AE%F3%B2%FA%E0%F7%F4%AF%FA%E6%E6%E2%A8%BD%BD%F1%E0%F7%F3%E6%FB%E4%F7%F1%FD%FF%FF%FD%FC%E1%BC%FD%E0%F5%BD%FE%FB%F1%F7%FC%E1%F7%E1%BD%F0%EB%BF%E1%F3%BD%A6%BC%A2%AC%D1%E0%F7%F3%E6%FB%E4%F7%B2%D1%FD%FF%FF%FD%FC%E1%B2%C0%F7%F1%FD%FC%FD%F1%FB%FF%FB%F7%FC%E6%FD%BF%D1%FD%FF%E2%F3%E0%E6%FB%E0%B2%FB%F5%E7%F3%FE%B2%A6%BC%A2%B2%DB%FC%E6%F7%E0%FC%F3%E6%FB%FD%FC%F3%FE%B2%DE%FB%F1%F7%FC%E1%F7%AE%BD%F3%AC%B0%BE%B0%E7%E1%F7%C1%F1%FD%E0%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%D1%FD%FF%E2%FE%FB%E6%B0%A8%B0%CB%F7%E1%B0%BE%B0%FF%E1%F5%D6%FD%FC%F7%B0%A8%B0%CB%F7%E1%B0%BE%B0%FF%E1%F5%DB%FC%C2%E0%FD%F5%E0%F7%E1%E1%B0%A8%B0%DB%FC%B2%E2%E0%FD%F1%F7%E1%E1%B0%BE%B0%FF%E1%F5%C7%FC%E0%F7%F3%FE%FB%E8%F7%F6%B0%A8%B0%DC%FD%B0%BE%B0%FF%E1%F5%E6%F3%E1%F9%DC%E7%FF%F0%F7%E0%B0%A8%B0%D1%FA%F7%F1%F9%FB%FC%F5%B0%BE%B0%FF%E1%F5%DC%F3%FF%F7%B0%A8%B0%DC%F3%FF%F7%B0%BE%B0%FF%E1%F5%D6%F3%E6%F7%B0%A8%B0%D6%F3%E6%F7%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%B0%A8%B0%D6%FD%E5%FC%FE%FD%F3%F6%B0%BE%B0%FF%E1%F5%DE%FB%E1%E6%B0%A8%B0%FE%FB%E1%E6%F3%CD%F6%F7%CD%F1%FD%E6%F7%F8%FD%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%E1%B0%A8%B0%E2%E7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%B0%A8%B0%E2%E7%FC%E6%FD%B0%BE%B0%FF%E1%F5%C0%F7%F0%FD%FD%E6%B0%A8%B0%C7%E2%FE%FD%F3%F6%B0%BE%B0%FF%E1%F5%D6%F7%FE%F7%E6%F7%B0%A8%B0-%C1%F7%F5%E7%E0%FD%B2%E3%E7%F7%B2%F6%F7%E1%F7%F3%B2%F0%FD%E0%E0%F3%E0%B2%E6%FD%F6%FD%E1%B2%FE%FD%E1%B2%F1%F3%FF%E2%FD%E1%B2%F6%F7%FE%B2%F4%FD%E0%FF%E7%FE%F3%E0%FB%FD%AD%B0%EF%EF</div><div class="listacotejo-bns js-hidden">Navegador incompatible</div><div class="listacotejo-extra-content"><p><img src="{{context_path}}/content/resources/check_mark_and_cross_circles.jpg" width="1366" height="1366" alt="Freepik" /></p></div><img src="{{context_path}}/content/resources/check_mark_and_cross_circles.jpg" class="js-hidden listacotejo-LinkDecorative" alt="Decorative" /></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778242222689-oddgg62qp</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1-2. Discovering Halloween</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1-2. Discovering Halloween</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1-2. Discovering Halloween</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778242222689-oddgg62qp</odePageId>
+      <odeBlockId>block-1778243690532-4hnw5cl0y</odeBlockId>
+      <blockName>What do you have to do?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778242222689-oddgg62qp</odePageId>
+          <odeBlockId>block-1778243690532-4hnw5cl0y</odeBlockId>
+          <odeIdeviceId>idevice-1778243690530-uxvhwh22w</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>In this activity, you will watch some videos and read simple texts about the origin and traditions of Halloween. After that, you will answer some comprehension questions to check your understanding.</p>
+<p>Work with your partner, discuss the answers, and make sure you understand the main ideas.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778243690530-uxvhwh22w","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>In this activity, you will watch some videos and read simple texts about the origin and traditions of Halloween. After that, you will answer some comprehension questions to check your understanding.</p>\n<p>Work with your partner, discuss the answers, and make sure you understand the main ideas.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778243262786-vetcfl6pm</odePageId>
+  <odeParentPageId>page-1778242222689-oddgg62qp</odeParentPageId>
+  <pageName>Halloween videos</pageName>
+  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Halloween videos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778243262786-vetcfl6pm</odePageId>
+      <odeBlockId>block-1778243756910-1rdaf7qea</odeBlockId>
+      <blockName>Why do we celebrate Halloween?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778243262786-vetcfl6pm</odePageId>
+          <odeBlockId>block-1778243756910-1rdaf7qea</odeBlockId>
+          <odeIdeviceId>idevice-1778243756909-7rdp4ystp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="560" height="315" src="https://www.youtube.com/embed/R9pzNpKKRYc?si=SlImiXO6StfkJNKC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></p>
+<p>By Thoughty2 on Youtube</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778243756909-7rdp4ystp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/R9pzNpKKRYc?si=SlImiXO6StfkJNKC\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p>By Thoughty2 on Youtube</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778243262786-vetcfl6pm</odePageId>
+      <odeBlockId>block-1778244001356-0778uz8gm</odeBlockId>
+      <blockName>Bet you didn&apos;t know!</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778243262786-vetcfl6pm</odePageId>
+          <odeBlockId>block-1778244001356-0778uz8gm</odeBlockId>
+          <odeIdeviceId>idevice-1778244001354-fdj14w1yp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="560" height="315" src="https://www.youtube.com/embed/dHQZErtwA3E?si=wBNei9fZjNgDKUoq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></p>
+<p>By Channel History on Youtube</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778244001354-fdj14w1yp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/dHQZErtwA3E?si=wBNei9fZjNgDKUoq\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p>By Channel History on Youtube</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778243262786-vetcfl6pm</odePageId>
+      <odeBlockId>block-1778244147351-rc8r6esf7</odeBlockId>
+      <blockName>Jack O&apos;Lantern</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778243262786-vetcfl6pm</odePageId>
+          <odeBlockId>block-1778244147351-rc8r6esf7</odeBlockId>
+          <odeIdeviceId>idevice-1778244147346-8j164y6w9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="560" height="315" src="https://www.youtube.com/embed/GA-9nPLcnTE?si=_iwu3crf1baGnUGq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe>ç</p>
+<p>By Reading through History on Youtube</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778244147346-8j164y6w9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/GA-9nPLcnTE?si=_iwu3crf1baGnUGq\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe>ç</p>\n<p>By Reading through History on Youtube</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778243262786-vetcfl6pm</odePageId>
+      <odeBlockId>block-1778248888929-e0vve8d0f</odeBlockId>
+      <blockName>DUA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778243262786-vetcfl6pm</odePageId>
+          <odeBlockId>block-1778248888929-e0vve8d0f</odeBlockId>
+          <odeIdeviceId>idevice-1778248888924-o0jqdkbos</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header"><h2 style="display:none;">Help</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Problems understanding the video? Remember you can add subtitles and reduce the video speed in Youtube</p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778244198949-vs80x9ial</odePageId>
+  <odeParentPageId>page-1778243262786-vetcfl6pm</odeParentPageId>
+  <pageName>Form</pageName>
+  <odeNavStructureOrder>14</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Form</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778244198949-vs80x9ial</odePageId>
+      <odeBlockId>block-1778244559994-f41w5dsg8</odeBlockId>
+      <blockName>Test</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778244198949-vs80x9ial</odePageId>
+          <odeBlockId>block-1778244559994-f41w5dsg8</odeBlockId>
+          <odeIdeviceId>idevice-1778244559993-nl9x7tq99</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="640" height="5220" src="https://docs.google.com/forms/d/e/1FAIpQLSf-uDWpWBWN7NsjMmgXt9KJzSGb0PhwmQiCpa3rALMH1x1b1Q/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778244559993-nl9x7tq99","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"640\" height=\"5220\" src=\"https://docs.google.com/forms/d/e/1FAIpQLSf-uDWpWBWN7NsjMmgXt9KJzSGb0PhwmQiCpa3rALMH1x1b1Q/viewform?embedded=true\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\">Cargando…</iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778243280651-efep2uoz0</odePageId>
+  <odeParentPageId>page-1778242222689-oddgg62qp</odeParentPageId>
+  <pageName>Halloween text</pageName>
+  <odeNavStructureOrder>14</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Halloween text</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778243280651-efep2uoz0</odePageId>
+      <odeBlockId>block-1778247997857-sd35lj8b0</odeBlockId>
+      <blockName>Did you know...?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778243280651-efep2uoz0</odePageId>
+          <odeBlockId>block-1778247997857-sd35lj8b0</odeBlockId>
+          <odeIdeviceId>idevice-1778247997856-lnvr54735</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><embed width="600" height="300" src="{{context_path}}/content/resources/Halloween text.pdf" type="application/pdf"></embed></p>
+<p>Resource obtained from Profe Recursos. Used for educational purposes.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778247997856-lnvr54735","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><embed width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/Halloween text.pdf\" type=\"application/pdf\"></embed></p>\n<p>Resource obtained from Profe Recursos. Used for educational purposes.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778244214808-7h2lfql90</odePageId>
+  <odeParentPageId>page-1778243280651-efep2uoz0</odeParentPageId>
+  <pageName>Comprehension questions</pageName>
+  <odeNavStructureOrder>15</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Comprehension questions</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778244214808-7h2lfql90</odePageId>
+      <odeBlockId>block-1778248191114-z8mrr3f9h</odeBlockId>
+      <blockName>Reading comprehension</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778244214808-7h2lfql90</odePageId>
+          <odeBlockId>block-1778248191114-z8mrr3f9h</odeBlockId>
+          <odeIdeviceId>idevice-1778248191111-1memkujku</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><embed width="600" height="300" src="{{context_path}}/content/resources/Halloween text.pdf" type="application/pdf"></embed></p>
+<p>Answer the questions and submit them into the Classroom task</p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778248191111-1memkujku","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><embed width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/Halloween text.pdf\" type=\"application/pdf\"></embed></p>\n<p>Answer the questions and submit them into the Classroom task</p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778244214808-7h2lfql90</odePageId>
+      <odeBlockId>block-1778248482527-m6qyivxr5</odeBlockId>
+      <blockName>DUA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778244214808-7h2lfql90</odePageId>
+          <odeBlockId>block-1778248482527-m6qyivxr5</odeBlockId>
+          <odeIdeviceId>idevice-1778248482526-6d5zy7gwl</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header"><h2 style="display:none;">Help</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Reading difficulties?</p></div><article class="exe-udlContent-content-simplified js-hidden"><header class='exe-udlContent-alt-content-title'><h2>Lectura facilitada</h2></header><p>Choose the text you better understand and submit its questions into the Classroom task.</p>
+<p><embed width="600" height="300" src="{{context_path}}/content/resources/HALLOWEEN CONTEST.pdf" type="application/pdf"></p><button class="exe-udlContent-alt-content-hide">Cerrar</button></article></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778249281595-8barm515n</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3-4. Let&apos;s learn some vocabulary!</pageName>
+  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3-4. Let&apos;s learn some vocabulary!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3-4. Let&apos;s learn some vocabulary!</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778249281595-8barm515n</odePageId>
+      <odeBlockId>block-1778249321312-zrjxpn16t</odeBlockId>
+      <blockName>What will we learn?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778249281595-8barm515n</odePageId>
+          <odeBlockId>block-1778249321312-zrjxpn16t</odeBlockId>
+          <odeIdeviceId>idevice-1778249321311-wu9s6zj2w</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>You will learn and practise Halloween vocabulary using different interactive games, flashcards and speaking activities. These will help you remember new words and use them correctly in context.</p>
+<p>We will work the vocab in two sessions. </p>
+<p><img src="{{context_path}}/content/resources/satheeshsankaran-halloween-5636332_640.png" width="640" height="640" alt="Imagen de Satheesh Sankaran en Pixabay" /></p>
+<p>Picture by Satheesh Sankaran on Pixabay</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778249321311-wu9s6zj2w","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>You will learn and practise Halloween vocabulary using different interactive games, flashcards and speaking activities. These will help you remember new words and use them correctly in context.</p>\n<p>We will work the vocab in two sessions. </p>\n<p><img src=\"{{context_path}}/content/resources/satheeshsankaran-halloween-5636332_640.png\" width=\"640\" height=\"640\" alt=\"Imagen de Satheesh Sankaran en Pixabay\" /></p>\n<p>Picture by Satheesh Sankaran on Pixabay</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778249522445-zfysvzhgu</odePageId>
+  <odeParentPageId>page-1778249281595-8barm515n</odeParentPageId>
+  <pageName>1st part</pageName>
+  <odeNavStructureOrder>19</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1st part</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778249522445-zfysvzhgu</odePageId>
+      <odeBlockId>block-1778249544601-qngw9b3m9</odeBlockId>
+      <blockName>Halloween Flashcards</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778249522445-zfysvzhgu</odePageId>
+          <odeBlockId>block-1778249544601-qngw9b3m9</odeBlockId>
+          <odeIdeviceId>idevice-1778249544600-4cc70g481</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><embed width="600" height="300" src="{{context_path}}/content/resources/Halloween flashcards.pdf" type="application/pdf"></embed></p>
+<p>Resource obtained from Profe Recursos.Used for educational purposes.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778249544600-4cc70g481","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><embed width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/Halloween flashcards.pdf\" type=\"application/pdf\"></embed></p>\n<p>Resource obtained from Profe Recursos.Used for educational purposes.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778249522445-zfysvzhgu</odePageId>
+      <odeBlockId>block-1778249683405-b1dm0xt07</odeBlockId>
+      <blockName>DUA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778249522445-zfysvzhgu</odePageId>
+          <odeBlockId>block-1778249683405-b1dm0xt07</odeBlockId>
+          <odeIdeviceId>idevice-1778249683401-k0rrh8hht</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header"><h2 style="display:none;">Did you know these words?</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>You can use <a href="https://www.collinsdictionary.com/dictionary/english" title="">Collins dictionary</a> if you don't know how to translate the words into Spanish</p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778249522445-zfysvzhgu</odePageId>
+      <odeBlockId>block-1778249906315-98v0n1oyb</odeBlockId>
+      <blockName>Practice</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778249522445-zfysvzhgu</odePageId>
+          <odeBlockId>block-1778249906315-98v0n1oyb</odeBlockId>
+          <odeIdeviceId>idevice-1778249906313-q5j0jfe41</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Practise the vocab with this WordWall activity:</p>
+<p><iframe width="500" height="380" style="max-width: 100%;" src="https://wordwall.net/embed/1df03f7b202441229dbeb3a745d1a973?themeId=21&amp;templateId=69&amp;fontStackId=0" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778249906313-q5j0jfe41","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Practise the vocab with this WordWall activity:</p>\n<p><iframe width=\"500\" height=\"380\" style=\"max-width: 100%;\" src=\"https://wordwall.net/embed/1df03f7b202441229dbeb3a745d1a973?themeId=21&amp;templateId=69&amp;fontStackId=0\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778249531560-buk0zrlj6</odePageId>
+  <odeParentPageId>page-1778249281595-8barm515n</odeParentPageId>
+  <pageName>2nd part</pageName>
+  <odeNavStructureOrder>20</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2nd part</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778249531560-buk0zrlj6</odePageId>
+      <odeBlockId>block-1778250341102-nsfnowuvx</odeBlockId>
+      <blockName>Match the best house for each monster</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778249531560-buk0zrlj6</odePageId>
+          <odeBlockId>block-1778250341102-nsfnowuvx</odeBlockId>
+          <odeIdeviceId>idevice-1778250341095-lb15okr32</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>In pairs, read the following descriptions and find the best house for each monster. Why did you choose it? Discuss with your partner.</p>
+<p><embed width="600" height="300" src="{{context_path}}/content/resources/Monsters flashcards (1).pdf" type="application/pdf"></embed></p>
+<p><embed width="600" height="300" src="{{context_path}}/content/resources/Haunted houses (1).pdf" type="application/pdf"></embed></p>
+<p><span style="font-size: 8pt;">Halloween worksheet shared with permission by @teachingteacup on Instagram.</span></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778250341095-lb15okr32","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>In pairs, read the following descriptions and find the best house for each monster. Why did you choose it? Discuss with your partner.</p>\n<p><embed width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/Monsters flashcards (1).pdf\" type=\"application/pdf\"></embed></p>\n<p><embed width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/Haunted houses (1).pdf\" type=\"application/pdf\"></embed></p>\n<p><span style=\"font-size: 8pt;\">Halloween worksheet shared with permission by @teachingteacup on Instagram.</span></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778249531560-buk0zrlj6</odePageId>
+      <odeBlockId>block-1778250522038-okcqensoy</odeBlockId>
+      <blockName>Help</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778249531560-buk0zrlj6</odePageId>
+          <odeBlockId>block-1778250522038-okcqensoy</odeBlockId>
+          <odeIdeviceId>idevice-1778250522037-19ebmuk66</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Any problem with the vocab? Use <a href="https://dictionary.cambridge.org/" title="">Cambridge Dictionary</a> to help you.</p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778250807955-jgs87xdvs</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. Halloween Breakout</pageName>
+  <odeNavStructureOrder>16</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Halloween Breakout</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>5. Halloween Breakout</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778250807955-jgs87xdvs</odePageId>
+      <odeBlockId>block-1778250810979-afktsrxz5</odeBlockId>
+      <blockName>The Halloween Curse!</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778250807955-jgs87xdvs</odePageId>
+          <odeBlockId>block-1778250810979-afktsrxz5</odeBlockId>
+          <odeIdeviceId>idevice-1778250810978-qktcv692t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>You will take part in a Halloween escape challenge where you must solve different tasks related to vocabulary, grammar, and culture. Each correct answer will help you unlock the next clue.</p>
+<p>Work with your partner, communicate in English, and solve the challenges together.</p>
+<div style="width: 100%;">
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" title="The Witches Enchantment" frameborder="0" src="https://view.genially.com/6531623dbb501b00109b5629" type="text/html" allowscriptaccess="always" allowfullscreen="allowfullscreen" scrolling="yes" allownetworking="all" data-mce-fragment="1"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><span style="font-size: 8pt;">Halloween Genially shared with permission by @inmyteachersbag on Instagram.</span></div>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778250810978-qktcv692t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>You will take part in a Halloween escape challenge where you must solve different tasks related to vocabulary, grammar, and culture. Each correct answer will help you unlock the next clue.</p>\n<p>Work with your partner, communicate in English, and solve the challenges together.</p>\n<div style=\"width: 100%;\">\n<div style=\"position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;\"><iframe width=\"1200px\" height=\"675px\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\" title=\"The Witches Enchantment\" frameborder=\"0\" src=\"https://view.genially.com/6531623dbb501b00109b5629\" type=\"text/html\" allowscriptaccess=\"always\" allowfullscreen=\"allowfullscreen\" scrolling=\"yes\" allownetworking=\"all\" data-mce-fragment=\"1\"></iframe></div>\n<div style=\"position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;\"><span style=\"font-size: 8pt;\">Halloween Genially shared with permission by @inmyteachersbag on Instagram.</span></div>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778251482368-2rcxc3fdv</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6-7 Designing the Haunted House</pageName>
+  <odeNavStructureOrder>17</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6-7 Designing the Haunted House</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>6-7 Designing the Haunted House</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778251482368-2rcxc3fdv</odePageId>
+      <odeBlockId>block-1778251487083-vwr87anwc</odeBlockId>
+      <blockName>Let&apos;s start organizing</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778251482368-2rcxc3fdv</odePageId>
+          <odeBlockId>block-1778251487083-vwr87anwc</odeBlockId>
+          <odeIdeviceId>idevice-1778251487082-zu6zy7ige</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>In groups, you will design your own haunted house experience for students of 1st ESO. You will decide the scenes, characters, and script, and organise how everything will happen during the final performance. You will have two sessions to plan everything carefully.</p>
+<p>You will decide:</p>
+<p>-The different rooms or scenes of the haunted house<br />-The characters (ghosts, witches, visitors, etc.)<br />-The storyline of the experience<br />-The dialogues and interactions<br />-The visual design and atmosphere</p>
+<p>Your final goal is to create an immersive experience for 1st ESO students using English as the main language of communication.</p>
+<p>Use your creativity and make sure everyone in the group participates and contributes.</p>
+<p>To promote organization, I encourage you to share a <a href="https://padlet.com/dashboard?mobile_page=Collection&amp;filter=combined_recents" title="">Padlet Board</a> witn your group.</p>
+<p><img src="{{context_path}}/content/resources/pactovisual-halloween-1685848_1280.png" width="1280" height="1280" alt="By PactoVisual. Pixabay License" /></p>
+<p><span style="font-size: 8pt;">By PactoVisual. Pixabay License.</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778251487082-zu6zy7ige","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>In groups, you will design your own haunted house experience for students of 1st ESO. You will decide the scenes, characters, and script, and organise how everything will happen during the final performance. You will have two sessions to plan everything carefully.</p>\n<p>You will decide:</p>\n<p>-The different rooms or scenes of the haunted house<br />-The characters (ghosts, witches, visitors, etc.)<br />-The storyline of the experience<br />-The dialogues and interactions<br />-The visual design and atmosphere</p>\n<p>Your final goal is to create an immersive experience for 1st ESO students using English as the main language of communication.</p>\n<p>Use your creativity and make sure everyone in the group participates and contributes.</p>\n<p>To promote organization, I encourage you to share a <a href=\"https://padlet.com/dashboard?mobile_page=Collection&amp;filter=combined_recents\" title=\"\">Padlet Board</a> witn your group.</p>\n<p><img src=\"{{context_path}}/content/resources/pactovisual-halloween-1685848_1280.png\" width=\"1280\" height=\"1280\" alt=\"By PactoVisual. Pixabay License\" /></p>\n<p><span style=\"font-size: 8pt;\">By PactoVisual. Pixabay License.</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778251482368-2rcxc3fdv</odePageId>
+      <odeBlockId>block-1778251706175-m2bnvi363</odeBlockId>
+      <blockName>Tutorials and resources to help you</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778251482368-2rcxc3fdv</odePageId>
+          <odeBlockId>block-1778251706175-m2bnvi363</odeBlockId>
+          <odeIdeviceId>idevice-1778251706173-t2mj4m47p</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Don't you know how to use Padlet? Here you are a link to help you.</p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/0YZmW9wMfyU?si=jtJFyvmNgPD6nQHY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></p>
+<p><span style="font-size: 8pt;">Source: EducaTic-Youtube</span></p>
+<p>Do you remember "The Halloween Curse" Breakout? Make your own Genially to use in the Escape.</p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/xRfbo5fmbB0?si=678g6-GMK5NrGn6R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></p>
+<p><span style="font-size: 8pt;">Source: Bio(eso)sfera-Youtube</span></p>
+<p>Remember! Decoration is so important for this final product. Use Canva to create terrifying posters!</p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/pIl-JKvHj3A?si=024nDUdkT9ocgkt8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></p>
+<p><span style="font-size: 8pt;">Source: Allison Ramirez-Youtube</span></p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778251482368-2rcxc3fdv</odePageId>
+      <odeBlockId>block-1778253477469-a4izxz5nf</odeBlockId>
+      <blockName>Expressions</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778251482368-2rcxc3fdv</odePageId>
+          <odeBlockId>block-1778253477469-a4izxz5nf</odeBlockId>
+          <odeIdeviceId>idevice-1778253477467-oojlt8k6e</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-expression"><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header"><h2 style="display:none;">Help</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Useful expressions for your dialogues:</p>
+<p><br>You must use English during the performance. Here are some helpful expressions:</p>
+<p>👻 Entering the haunted house<br>Welcome to the haunted house… if you dare!<br>Don’t go in there… it’s dangerous!<br>Are you ready for the challenge?<br>&nbsp;<br>😱 Giving instructions or warnings<br>You must find the key to escape!<br>Be careful, the ghost is watching you!<br>Follow the clues to survive!</p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778251814321-mtaz9oyw1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>8. Haunted House Experience!</pageName>
+  <odeNavStructureOrder>18</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Haunted House Experience!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>8. Haunted House Experience!</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778251814321-mtaz9oyw1</odePageId>
+      <odeBlockId>block-1778252182758-ezxifbe9x</odeBlockId>
+      <blockName>Final Product</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778251814321-mtaz9oyw1</odePageId>
+          <odeBlockId>block-1778252182758-ezxifbe9x</odeBlockId>
+          <odeIdeviceId>idevice-1778252182754-oe690xo64</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>You will present your haunted house experience to 1st ESO students the 30th of October in the Library. You will act out your scenes and interact in English, creating a fun and spooky learning experience for your audience.</p>
+<p>Work as a team, speak clearly, and enjoy the performance!</p>
+<p><img src="{{context_path}}/content/resources/nikkigocom-halloween-poster-6730456_1280.png" title="WO" width="1280" height="862" alt="Imagen de Nicole Dralle en Pixabay" /></p>
+<p>Picture by Nicole Dralle on Pixabay</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778252182754-oe690xo64","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>You will present your haunted house experience to 1st ESO students the 30th of October in the Library. You will act out your scenes and interact in English, creating a fun and spooky learning experience for your audience.</p>\n<p>Work as a team, speak clearly, and enjoy the performance!</p>\n<p><img src=\"{{context_path}}/content/resources/nikkigocom-halloween-poster-6730456_1280.png\" title=\"WO\" width=\"1280\" height=\"862\" alt=\"Imagen de Nicole Dralle en Pixabay\" /></p>\n<p>Picture by Nicole Dralle on Pixabay</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mowuxhrb-o52vlgdhs</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Didactic Guide</pageName>
+  <odeNavStructureOrder>19</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Didactic Guide</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Didactic Guide</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mowuxhrb-o52vlgdhs</odePageId>
+      <odeBlockId>block-1778253732613-5eqa8wyr4</odeBlockId>
+      <blockName>Guía didáctica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowuxhrb-o52vlgdhs</odePageId>
+          <odeBlockId>block-1778253732613-5eqa8wyr4</odeBlockId>
+          <odeIdeviceId>idevice-1778253732612-drq8moqkw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Aquí podréis encontrar la tabla de criterios enlazados a tareas: <a href="https://docs.google.com/document/d/1XbvdavJydK3G88RkNwPOUQRj8tzhWhB8ftix-sTPAwc/edit?usp=sharing" title="">Enlace</a></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778253732612-drq8moqkw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Aquí podréis encontrar la tabla de criterios enlazados a tareas: <a href=\"https://docs.google.com/document/d/1XbvdavJydK3G88RkNwPOUQRj8tzhWhB8ftix-sTPAwc/edit?usp=sharing\" title=\"\">Enlace</a></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mowuxhrb-6b6udgtq1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Credits</pageName>
+  <odeNavStructureOrder>20</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Credits</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Credits</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mowuxhrb-6b6udgtq1</odePageId>
+      <odeBlockId>block-1778236352489-v1v8ica6p</odeBlockId>
+      <blockName>Autoría y detalles</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowuxhrb-6b6udgtq1</odePageId>
+          <odeBlockId>block-1778236352489-v1v8ica6p</odeBlockId>
+          <odeIdeviceId>idevice-1778236352487-6x49s4d68</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Halloween Escape</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Los alumnos tendrán como objetivo la organización de un pasaje del terror para los alumnos de 1º ESO como celebración de Halloween.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Nerea Salvatierra Gómez</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
